@@ -1,4 +1,5 @@
-A fork of xv6 with support for devcontainer.
+An implementation of Cooperative User-level thread framework uthread with priorty schedulling policy and a Kernel level thread framework kthread
+
 
 # Installation
 1. Clone the repository.
@@ -7,8 +8,6 @@ A fork of xv6 with support for devcontainer.
 3. Open vscode and select File -> open folder.
 4. Select the cloned repository folder.
 5. Press "Reopen in Container".
-6. ???
-7. Profit.
 
 xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix
 Version 6 (v6).  xv6 loosely follows the structure and style of v6,
